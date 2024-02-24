@@ -1,0 +1,11 @@
+bot: midjourney
+album: ""
+download: true
+upscale: true
+variation: false
+thumbnail: false
+html: false
+thumbnail: false
+suffix: ""
+prompt:
+  - ./prompt.txt
