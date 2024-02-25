@@ -1,5 +1,7 @@
 bot: midjourney
 album: ""
+concurrency: 2
+wait: 10s
 download: true
 upscale: true
 variation: false
